@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Молоко фермерское", "category": "Молочные продукты", "price": 450, "unit": "л", "image": "/images/mlk.jpg" },
+    { "id": 2, "name": "Мёд цветочный", "category": "Мёд", "price": 3200, "unit": "кг", "image": "/images/med.jpg" },
+    { "id": 3, "name": "Сыр молочный", "category": "Молочные продукты", "price": 2800, "unit": "кг", "image": "/images/syr.jpg" },
+    { "id": 4, "name": "Картофель", "category": "Овощи", "price": 180, "unit": "кг", "image": "/images/images.webp" }
+  ]
+}
